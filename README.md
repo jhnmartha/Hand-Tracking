@@ -9,8 +9,8 @@ Proyek ini merupakan implementasi hand tracking dan finger counting menggunakan 
 5. Optimasi performa dengan threshold confidence detection
 
 #### Cara Kerja
-Program menangkap video dari kamera dan membaliknya agar lebih natural.
-Gambar dikonversi ke format RGB untuk diproses oleh MediaPipe Hands.
-Landmark tangan dideteksi dan dihubungkan menggunakan MediaPipe Drawing Utils.
-Jari yang terangkat dihitung berdasarkan koordinat landmark.
-Hasil deteksi ditampilkan di layar dengan OpenCV.
+1. Program menangkap video dari kamera dan membaliknya agar lebih natural.
+2. Gambar dikonversi ke format RGB untuk diproses oleh MediaPipe Hands.
+3. Landmark tangan dideteksi dan dihubungkan menggunakan MediaPipe Drawing Utils.
+4. Jari yang terangkat dihitung berdasarkan koordinat landmark.
+5. Hasil deteksi ditampilkan di layar dengan OpenCV.
