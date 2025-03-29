@@ -2,11 +2,11 @@
 Proyek ini merupakan implementasi hand tracking dan finger counting menggunakan OpenCV dan MediaPipe. Program ini dapat mendeteksi hingga 10 tangan secara bersamaan dan menghitung jumlah jari yang terangkat.
 
 #### Fitur Utama
-✅ Mendeteksi banyak tangan (hingga 10 tangan)
-✅ Menghitung jumlah jari yang terangkat secara real-time
-✅ Menggunakan MediaPipe untuk hand landmark detection
-✅ Menggunakan OpenCV untuk menangani kamera dan tampilan visual
-✅ Optimasi performa dengan threshold confidence detection
+1. Mendeteksi banyak tangan (hingga 10 tangan)
+2. Menghitung jumlah jari yang terangkat secara real-time
+3. Menggunakan MediaPipe untuk hand landmark detection
+4. Menggunakan OpenCV untuk menangani kamera dan tampilan visual
+5. Optimasi performa dengan threshold confidence detection
 
 #### Cara Kerja
 Program menangkap video dari kamera dan membaliknya agar lebih natural.
