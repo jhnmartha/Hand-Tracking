@@ -14,3 +14,7 @@ Proyek ini merupakan implementasi hand tracking dan finger counting menggunakan 
 3. Landmark tangan dideteksi dan dihubungkan menggunakan MediaPipe Drawing Utils.
 4. Jari yang terangkat dihitung berdasarkan koordinat landmark.
 5. Hasil deteksi ditampilkan di layar dengan OpenCV.
+
+#### Nama Kelompok
+1. Bagas Adi Sasongko | BagasAdi-11
+2. Jihan Martha | jhnmartha
